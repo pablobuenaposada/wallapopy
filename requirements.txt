@@ -1,3 +1,4 @@
+black
 requests==2.23.0
 pytest
 future==0.18.2
